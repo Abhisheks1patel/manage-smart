@@ -1,5 +1,5 @@
 # Smart Task Manager - Complete File Details & Features
-
+Live link: https://manage-smart.netlify.app/
 A React-based smart task manager with natural language input, AI suggestions, recurring tasks, reminders, overdue highlighting, and stats — all saved locally with theme toggle.
 
 ---
@@ -121,6 +121,6 @@ A React-based smart task manager with natural language input, AI suggestions, re
 This modular, extensible React app provides a smart productivity tool with advanced task parsing, reminders, AI suggestions, and analytics — all without backend dependencies, fully running on the client side.
 
 ---
-Live link: https://manage-smart.netlify.app/
+
 If you want help adding deployment instructions or advanced features, just ask!
 
